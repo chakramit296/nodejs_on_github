@@ -1,2 +1,2 @@
-# nodejs-_on_github
+# nodejs_on_github
 A simple javascript project
